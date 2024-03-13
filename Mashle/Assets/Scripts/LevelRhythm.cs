@@ -11,6 +11,12 @@ public class LevelRhythm : MonoBehaviour
     [SerializeField] private float speed=0.5f;
 
     [SerializeField] private float startTimer=4, clickAdd=0.8f;
+
+    [SerializeField] private GameObject[] numbers;
+
+    [SerializeField] private GameObject sad;
+
+    [SerializeField] private Color orange;
     
     public float Timer
     {
@@ -30,20 +36,47 @@ public class LevelRhythm : MonoBehaviour
             crack.gameObject.SetActive(false);
         }
         
-        _cracks[0].SetActive(true);
+        
 
         timer = startTimer;
+
+        StartCoroutine(CountDown());
+
     }
+
+    private IEnumerator CountDown()
+    {
+        _cracks[0].GetComponent<CircleCollider2D>().enabled = false;
+        _cracks[0].SetActive(true);
+        
+        yield return new WaitForSeconds(1);
+        numbers[0].SetActive(true);
+        yield return new WaitForSeconds(1);
+        numbers[1].SetActive(true);
+        yield return new WaitForSeconds(1);
+        numbers[2].SetActive(true);
+        
+        _cracks[0].GetComponent<CircleCollider2D>().enabled = true;
+        
+        yield return new WaitForSeconds(1);
+        
+        numbers[0].SetActive(false);
+        numbers[1].SetActive(false);
+        numbers[2].SetActive(false);
+
+    }
+    
 
     // Update is called once per frame
     void Update()
     {
         timer -= Time.deltaTime*speed;
-        bar.transform.localScale = new Vector3(timer,0.7f,1);
+        
 
-        if (timer<=0)
+        if (timer<=0f)
         {
-            Levels._sharedInstance.Loose();
+            sad.SetActive(true);
+            return;
         }
 
         if (timer>=10)
@@ -52,19 +85,23 @@ public class LevelRhythm : MonoBehaviour
         }
 
         if (timer<=5f)
-        {
+        {                
+            barSprite.color=orange;
+
             if (timer <= 2.5f)
             {
                 barSprite.color= Color.red;
-                return;
+            }
+            else
+            {
             }
             
-            barSprite.color=new Color(255,165,0);
         }
         else
         {
             barSprite.color= Color.white;
         }
+        bar.transform.localScale = new Vector3(timer,0.7f,1);
 
     }
 
