@@ -9,7 +9,7 @@ public class Levels : MonoBehaviour
     [SerializeField] private string[] levels;
     [SerializeField] private int actualLevel=0;
 
-    public GameObject menu;
+    //public GameObject menu;
     
     public static Levels _sharedInstance;
     
@@ -19,7 +19,7 @@ public class Levels : MonoBehaviour
         actualLevel = 0;
         _sharedInstance = this;
 
-        SetMenu();        
+        //SetMenu();        
         
         SceneManager.LoadScene(levels[0]);
 
@@ -39,8 +39,8 @@ public class Levels : MonoBehaviour
 
     private void SetMenu()
     { 
-        GameObject menuInst= Instantiate(menu);
-        DontDestroyOnLoad(menuInst);
-        menuInst.GetComponentInChildren<Button>().onClick.AddListener(Loose);
+        //GameObject menuInst= Instantiate(menu);
+        //DontDestroyOnLoad(menuInst);
+        //menuInst.GetComponentInChildren<Button>().onClick.AddListener(Loose);
     }
 }
