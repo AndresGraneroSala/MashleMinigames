@@ -5,9 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="656b8e1f-6062-4af9-9c15-c5b2ddb7e72d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AntiTheft.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AntiTheft.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/arrowIndication.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/arrowIndication.png.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Mashle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Mashle/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/1.1-1Prev.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/1.1-1Prev.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SimpleNextScene.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/SimpleNextScene.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/1.1-1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/1.1-1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/1.1-2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/1.1-2.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Menu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Build/Build/Web-Build.data" beforeDir="false" afterPath="$PROJECT_DIR$/../Web-Build/Build/Web-Build.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Build/Build/Web-Build.framework.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Web-Build/Build/Web-Build.framework.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Build/Build/Web-Build.wasm" beforeDir="false" afterPath="$PROJECT_DIR$/../Web-Build/Build/Web-Build.wasm" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +117,8 @@
       <workItem from="1710264321267" duration="4777000" />
       <workItem from="1710341760325" duration="1681000" />
       <workItem from="1710343467914" duration="6106000" />
-      <workItem from="1710414587276" duration="1778000" />
+      <workItem from="1710414587276" duration="3670000" />
+      <workItem from="1710517340300" duration="796000" />
     </task>
     <servers />
   </component>
