@@ -48,21 +48,23 @@ public class LevelRhythm : MonoBehaviour
     {
         _cracks[0].GetComponent<CircleCollider2D>().enabled = false;
         _cracks[0].SetActive(true);
-        
+
+        for (int i = 0; i < numbers.Length; i++)
+        {
+            yield return new WaitForSeconds(1);
+            numbers[i].SetActive(true);
+        }
         yield return new WaitForSeconds(1);
-        numbers[0].SetActive(true);
-        yield return new WaitForSeconds(1);
-        numbers[1].SetActive(true);
-        yield return new WaitForSeconds(1);
-        numbers[2].SetActive(true);
+
+        for (int i = 0; i < numbers.Length; i++)
+        {
+            numbers[i].SetActive(false);
+        }
+
         
         _cracks[0].GetComponent<CircleCollider2D>().enabled = true;
         
-        yield return new WaitForSeconds(1);
-        
-        numbers[0].SetActive(false);
-        numbers[1].SetActive(false);
-        numbers[2].SetActive(false);
+
 
     }
     

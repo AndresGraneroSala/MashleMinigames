@@ -5,17 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="656b8e1f-6062-4af9-9c15-c5b2ddb7e72d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AntiTheft.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AntiTheft.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/arrowIndication.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Sprites/arrowIndication.png.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Mashle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Mashle/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/1.1-1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/1.1-1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/1.1-2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/1.1-2.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Menu.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Web-Build/Build/Web-Build.data" beforeDir="false" afterPath="$PROJECT_DIR$/../Web-Build/Build/Web-Build.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Web-Build/Build/Web-Build.framework.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Web-Build/Build/Web-Build.framework.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Web-Build/Build/Web-Build.wasm" beforeDir="false" afterPath="$PROJECT_DIR$/../Web-Build/Build/Web-Build.wasm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/LevelRhythm.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/LevelRhythm.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Levels.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Levels.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ResetLevel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ResetLevel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/barrel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/barrel.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +27,8 @@
   <component name="GithubPullRequestsUISettings">{}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Levels.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LooseTouch.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveSimple.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SadCap1P1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SimpleNextScene.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -118,7 +118,10 @@
       <workItem from="1710341760325" duration="1681000" />
       <workItem from="1710343467914" duration="6106000" />
       <workItem from="1710414587276" duration="3670000" />
-      <workItem from="1710517340300" duration="796000" />
+      <workItem from="1710517340300" duration="1461000" />
+      <workItem from="1710942865603" duration="5906000" />
+      <workItem from="1710972633240" duration="810000" />
+      <workItem from="1711021519725" duration="5108000" />
     </task>
     <servers />
   </component>

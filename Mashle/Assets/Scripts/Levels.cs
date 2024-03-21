@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -12,7 +13,19 @@ public class Levels : MonoBehaviour
     //public GameObject menu;
     
     public static Levels _sharedInstance;
-    
+
+    private void Update()
+    {
+#if UNITY_EDITOR
+        if (Input.GetKey(KeyCode.LeftControl) && Input.GetKey(KeyCode.W))
+        {
+            Win();
+        }
+
+#endif
+    }
+
+
     public void StartLevels()
     {
         DontDestroyOnLoad(gameObject);
@@ -28,13 +41,24 @@ public class Levels : MonoBehaviour
     public void Win()
     {
         actualLevel++;
-        SceneManager.LoadScene(levels[actualLevel]);
+
+        if (actualLevel>= levels.Length)
+        {
+            SceneManager.LoadScene("Menu");
+            Destroy(gameObject);
+
+        }
+        else
+        {
+            SceneManager.LoadScene(levels[actualLevel]);
+        }
 
     }
 
-    public void Loose()
+    static public void Loose()
     {
-        SceneManager.LoadScene(levels[actualLevel]);
+        print(SceneManager.GetActiveScene().name);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 
     private void SetMenu()

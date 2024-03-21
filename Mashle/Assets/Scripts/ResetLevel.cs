@@ -6,6 +6,6 @@ public class ResetLevel : MonoBehaviour
 {
     public void Restart()
     {
-        Levels._sharedInstance.Loose();
+        Levels.Loose();
     }
 }
