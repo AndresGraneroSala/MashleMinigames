@@ -17,6 +17,8 @@ public class LevelRhythm : MonoBehaviour
     [SerializeField] private GameObject sad;
 
     [SerializeField] private Color orange;
+
+    private bool isStarted=false;
     
     public float Timer
     {
@@ -28,6 +30,8 @@ public class LevelRhythm : MonoBehaviour
 
     private void Start()
     {
+        isStarted = false;
+        
         _cracks = new List<GameObject>();
         
         foreach (Transform crack in transform)
@@ -46,8 +50,9 @@ public class LevelRhythm : MonoBehaviour
 
     private IEnumerator CountDown()
     {
-        _cracks[0].GetComponent<CircleCollider2D>().enabled = false;
-        _cracks[0].SetActive(true);
+        
+        //_cracks[0].GetComponent<CircleCollider2D>().enabled = false;
+        //_cracks[0].SetActive(true);
 
         for (int i = 0; i < numbers.Length; i++)
         {
@@ -62,8 +67,10 @@ public class LevelRhythm : MonoBehaviour
         }
 
         
-        _cracks[0].GetComponent<CircleCollider2D>().enabled = true;
-        
+        //_cracks[0].GetComponent<CircleCollider2D>().enabled = true;
+        _cracks[0].SetActive(true);
+        //NextCrack();
+        isStarted = true;
 
 
     }
@@ -72,7 +79,10 @@ public class LevelRhythm : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        timer -= Time.deltaTime*speed;
+        if (isStarted)
+        {
+            timer -= Time.deltaTime*speed;
+        }
         
 
         if (timer<=0f)
@@ -107,17 +117,26 @@ public class LevelRhythm : MonoBehaviour
 
     }
 
-    public void NextCrack()
+    public void NextCrack(bool loose=false)
     {
         _cracks[0].SetActive(false);
         _cracks.Add(_cracks[0]);
         
         _cracks.Remove(_cracks[0]);
         _cracks[0].SetActive(true);
-            
-        Timer += clickAdd;
+
+        if (loose)
+        {
+            Timer -= clickAdd*2;
+        }
+        else
+        {
+            Timer += clickAdd;
+        }
 
     }
+
+    
 
     
 }

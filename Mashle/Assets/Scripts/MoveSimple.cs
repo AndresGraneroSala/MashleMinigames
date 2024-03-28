@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -17,5 +18,12 @@ public class MoveSimple : MonoBehaviour
     void Update()
     {
         transform.position += direction*speed*Time.deltaTime;
+    }
+
+    private void OnDrawGizmos()
+    {
+        Gizmos.color=Color.red;
+        
+        Gizmos.DrawRay(transform.position, direction*10);
     }
 }
