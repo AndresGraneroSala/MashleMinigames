@@ -12,6 +12,9 @@ public class AntiTheft : MonoBehaviour
     // Start is called before the first frame update
     void Awake()
     {
+#if !UNITY_EDITOR
+        
+        
         //Debug.Log(Application.absoluteURL);
         //texto.text = Application.absoluteURL;
 
@@ -30,7 +33,8 @@ public class AntiTheft : MonoBehaviour
             texto.color=Color.red;
             texto.text = "This game has been stolen, it belongs to shiny games";
         }
-        
+#endif
+
     }
 
     // Update is called once per frame

@@ -6,15 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="656b8e1f-6062-4af9-9c15-c5b2ddb7e72d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Mashle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Mashle/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/1.1-2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/1.1-2.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/1.1-4Prev.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/1.1-4Prev.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/LevelRhythm.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/LevelRhythm.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MoveSimple.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MoveSimple.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Menu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AntiTheft.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/AntiTheft.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +120,7 @@
       <workItem from="1710972633240" duration="810000" />
       <workItem from="1711021519725" duration="5902000" />
       <workItem from="1711641884339" duration="156000" />
-      <workItem from="1711642414025" duration="12394000" />
+      <workItem from="1711642414025" duration="15317000" />
     </task>
     <servers />
   </component>
