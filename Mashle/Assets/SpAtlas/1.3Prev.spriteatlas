@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 1.3Prev
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: ab9720b182699fe40bfc8059adaf7886, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 10e21d60a7ef7774396550fba16500a6: 21300000
+    - 4cb918a0377614947ac867c8eb730d5a: 21300000
+    - 79e368229bb52cc4d96c1cc8c904767e: 21300000
+    - 24d718d2bc90e6245b500f13ffb36582: 21300000
+    - f0589ba3dc924c543869b94e99273060: 21300000
+    - 30dd1764c89692a4c868cf883d456247: 21300000
+    - 98afbf5655cfa4e4dbf2dfc81c34102e: 21300000
+    - 6fe947384abd77041b6c8aedcde574eb: 21300000
+    - de0b879ba4c2a7247987262a6fd13b3f: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 10e21d60a7ef7774396550fba16500a6, type: 3}
+  - {fileID: 21300000, guid: 4cb918a0377614947ac867c8eb730d5a, type: 3}
+  - {fileID: 21300000, guid: 79e368229bb52cc4d96c1cc8c904767e, type: 3}
+  - {fileID: 21300000, guid: 24d718d2bc90e6245b500f13ffb36582, type: 3}
+  - {fileID: 21300000, guid: f0589ba3dc924c543869b94e99273060, type: 3}
+  - {fileID: 21300000, guid: 30dd1764c89692a4c868cf883d456247, type: 3}
+  - {fileID: 21300000, guid: 98afbf5655cfa4e4dbf2dfc81c34102e, type: 3}
+  - {fileID: 21300000, guid: 6fe947384abd77041b6c8aedcde574eb, type: 3}
+  - {fileID: 21300000, guid: de0b879ba4c2a7247987262a6fd13b3f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - MashHoldShirt
+  - GrandpaRun
+  - PoliceCorrupt
+  - CurruptSee
+  - Shirtless
+  - PoliceScared
+  - TwoPolices
+  - GrandpaBye
+  - MashEating
+  m_RenderDataMap: {}
+  m_Tag: 1.3Prev
+  m_IsVariant: 0

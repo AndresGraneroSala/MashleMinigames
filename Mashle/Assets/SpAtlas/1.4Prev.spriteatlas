@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 1.4Prev
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 7e6513429032aa64aae28cca0602d187, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 35a89da1e6a7ceb418b33da2b293b3fe: 21300000
+    - 667ccee127fc6264f918bdd0b68d806d: 21300000
+    - 183925c265045d14d94daab3dc86283a: 21300000
+    - a74d98a3f12ab994ba1ff87dfa19b024: 21300000
+    - f3fbf2d41aca4c74caa2f401a7cc42b1: 21300000
+    - 83b64d158a0beb04eaaa5eefcdc83c0e: 21300000
+    - ee8e8135fbc1d384397f365d133f3423: 21300000
+    - f98b91e6a388b434e807454fc924b2d6: 21300000
+    - 113c7337625615d43b4963daa9b89e64: 21300000
+    - 6a8ff187fb711074e941df50031c0a52: 21300000
+    - b38bdb18e4923f3489a009e1c29b0c3c: 21300000
+    - 3a181e682b925214daa70c9d4dda0164: 21300000
+    - 4d7aaecb5053ff84cb4eb2e7f26febae: 21300000
+    - a7620efdaa3d6b147bba084de4d4fe8a: 21300000
+    - 75fbac4e6ad43c54c88aef09f3722374: 21300000
+    - 7cbf055ecf53ce74483be0e53a17d822: 21300000
+    - 3fdcb7be47818444f81cc782d88c0809: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 35a89da1e6a7ceb418b33da2b293b3fe, type: 3}
+  - {fileID: 21300000, guid: 667ccee127fc6264f918bdd0b68d806d, type: 3}
+  - {fileID: 21300000, guid: 183925c265045d14d94daab3dc86283a, type: 3}
+  - {fileID: 21300000, guid: a74d98a3f12ab994ba1ff87dfa19b024, type: 3}
+  - {fileID: 21300000, guid: f3fbf2d41aca4c74caa2f401a7cc42b1, type: 3}
+  - {fileID: 21300000, guid: 83b64d158a0beb04eaaa5eefcdc83c0e, type: 3}
+  - {fileID: 21300000, guid: ee8e8135fbc1d384397f365d133f3423, type: 3}
+  - {fileID: 21300000, guid: f98b91e6a388b434e807454fc924b2d6, type: 3}
+  - {fileID: 21300000, guid: 113c7337625615d43b4963daa9b89e64, type: 3}
+  - {fileID: 21300000, guid: 6a8ff187fb711074e941df50031c0a52, type: 3}
+  - {fileID: 21300000, guid: b38bdb18e4923f3489a009e1c29b0c3c, type: 3}
+  - {fileID: 21300000, guid: 3a181e682b925214daa70c9d4dda0164, type: 3}
+  - {fileID: 21300000, guid: 4d7aaecb5053ff84cb4eb2e7f26febae, type: 3}
+  - {fileID: 21300000, guid: a7620efdaa3d6b147bba084de4d4fe8a, type: 3}
+  - {fileID: 21300000, guid: 75fbac4e6ad43c54c88aef09f3722374, type: 3}
+  - {fileID: 21300000, guid: 7cbf055ecf53ce74483be0e53a17d822, type: 3}
+  - {fileID: 21300000, guid: 3fdcb7be47818444f81cc782d88c0809, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - MashExercise3
+  - BirdSee
+  - House
+  - Squirrel
+  - MashExercise2
+  - MashExercise1
+  - GrandpaOpenDoor
+  - MashListen
+  - PoliceShirt
+  - MashPunch
+  - Talking
+  - BirdFollows
+  - PoliceMagic
+  - MashForest
+  - GrandpaTortured
+  - PoliceSeeBad
+  - PoliceSlap
+  m_RenderDataMap: {}
+  m_Tag: 1.4Prev
+  m_IsVariant: 0

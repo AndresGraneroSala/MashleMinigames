@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 1.1
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: e93f7d5f2d690c34bb90e985e7d0aaab, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - d9a66c107688c444197deb2b992c31d8: 21300000
+    - bffd7df06ada1f045823a2ae907fe2ec: 21300000
+    - 9634f71270d717e4eb5b5d8ec40ecea5: -869195868
+    - 9634f71270d717e4eb5b5d8ec40ecea5: 395441299
+    - 9634f71270d717e4eb5b5d8ec40ecea5: -1363876315
+    - 9634f71270d717e4eb5b5d8ec40ecea5: 1365556002
+    - 9634f71270d717e4eb5b5d8ec40ecea5: 124770358
+    - 9634f71270d717e4eb5b5d8ec40ecea5: 1213858999
+    - eaa099e489c72c447bcdbd8ff8b5eb90: 21300000
+    - e1f160352cabc3f44be6a8a5d2bc62db: 21300000
+    - c28c09b5fba1ae14ca3d298c618f44a1: 21300000
+    - 24162278f181c8d4db52d78731fe11d5: 21300000
+    - c5c5ca89e6d4ba54d945ea767e26535f: 21300000
+    - 595b77ca362f4b048a18d251884f88d5: 21300000
+    - 46997bfab1b083645ad0b29c14c61712: 21300000
+    - 4606de7d04fa3df498eefe9537c911d3: 21300000
+    - 37e9efbd817df4a4b998931e0546758d: 21300000
+    - 2e6eea1feff814c4c9e3c3b970131fc3: 21300000
+    - bdb7e25f91943984580b653e372671ba: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: d9a66c107688c444197deb2b992c31d8, type: 3}
+  - {fileID: 21300000, guid: bffd7df06ada1f045823a2ae907fe2ec, type: 3}
+  - {fileID: -869195868, guid: 9634f71270d717e4eb5b5d8ec40ecea5, type: 3}
+  - {fileID: 395441299, guid: 9634f71270d717e4eb5b5d8ec40ecea5, type: 3}
+  - {fileID: -1363876315, guid: 9634f71270d717e4eb5b5d8ec40ecea5, type: 3}
+  - {fileID: 1365556002, guid: 9634f71270d717e4eb5b5d8ec40ecea5, type: 3}
+  - {fileID: 124770358, guid: 9634f71270d717e4eb5b5d8ec40ecea5, type: 3}
+  - {fileID: 1213858999, guid: 9634f71270d717e4eb5b5d8ec40ecea5, type: 3}
+  - {fileID: 21300000, guid: eaa099e489c72c447bcdbd8ff8b5eb90, type: 3}
+  - {fileID: 21300000, guid: e1f160352cabc3f44be6a8a5d2bc62db, type: 3}
+  - {fileID: 21300000, guid: c28c09b5fba1ae14ca3d298c618f44a1, type: 3}
+  - {fileID: 21300000, guid: 24162278f181c8d4db52d78731fe11d5, type: 3}
+  - {fileID: 21300000, guid: c5c5ca89e6d4ba54d945ea767e26535f, type: 3}
+  - {fileID: 21300000, guid: 595b77ca362f4b048a18d251884f88d5, type: 3}
+  - {fileID: 21300000, guid: 46997bfab1b083645ad0b29c14c61712, type: 3}
+  - {fileID: 21300000, guid: 4606de7d04fa3df498eefe9537c911d3, type: 3}
+  - {fileID: 21300000, guid: 37e9efbd817df4a4b998931e0546758d, type: 3}
+  - {fileID: 21300000, guid: 2e6eea1feff814c4c9e3c3b970131fc3, type: 3}
+  - {fileID: 21300000, guid: bdb7e25f91943984580b653e372671ba, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Sliver
+  - CoinCap1
+  - rocks_4
+  - rocks_5
+  - rocks_2
+  - rocks_3
+  - rocks_0
+  - rocks_1
+  - woodTexture
+  - ProfiteroleShop
+  - mashHood
+  - SignCap1Profiteroles
+  - Chef1
+  - mashProfiteroleCoin
+  - woodDark
+  - SignCap1ProfiterolesTest
+  - dedo
+  - ChefCap1
+  - woodTextureDark
+  m_RenderDataMap: {}
+  m_Tag: 1.1
+  m_IsVariant: 0

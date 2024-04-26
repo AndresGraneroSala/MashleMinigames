@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 1.3
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 739b1cafbe0df094fbe39409f4cb39b6, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 88c5fd0030cdc0245af00f2a3f181db8: 21300000
+    - 10e21d60a7ef7774396550fba16500a6: 21300000
+    - 4cb918a0377614947ac867c8eb730d5a: 21300000
+    - 79e368229bb52cc4d96c1cc8c904767e: 21300000
+    - 24d718d2bc90e6245b500f13ffb36582: 21300000
+    - fb160c23a0951d943a665de7d50aab74: 21300000
+    - f0589ba3dc924c543869b94e99273060: 21300000
+    - 30dd1764c89692a4c868cf883d456247: 21300000
+    - f6c546e44c96be246b6cd30125035420: 21300000
+    - c93a3ee58bacc8943976ed853cbc8c79: 21300000
+    - 98afbf5655cfa4e4dbf2dfc81c34102e: 21300000
+    - 3ad71617d14da7f46b8108695e51e568: 21300000
+    - 36908f7771e8b0342a3ba60875fb77fb: 21300000
+    - 6fe947384abd77041b6c8aedcde574eb: 21300000
+    - de0b879ba4c2a7247987262a6fd13b3f: 21300000
+    - be27734e902544f42915ad48790c7d3e: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 88c5fd0030cdc0245af00f2a3f181db8, type: 3}
+  - {fileID: 21300000, guid: 10e21d60a7ef7774396550fba16500a6, type: 3}
+  - {fileID: 21300000, guid: 4cb918a0377614947ac867c8eb730d5a, type: 3}
+  - {fileID: 21300000, guid: 79e368229bb52cc4d96c1cc8c904767e, type: 3}
+  - {fileID: 21300000, guid: 24d718d2bc90e6245b500f13ffb36582, type: 3}
+  - {fileID: 21300000, guid: fb160c23a0951d943a665de7d50aab74, type: 3}
+  - {fileID: 21300000, guid: f0589ba3dc924c543869b94e99273060, type: 3}
+  - {fileID: 21300000, guid: 30dd1764c89692a4c868cf883d456247, type: 3}
+  - {fileID: 21300000, guid: f6c546e44c96be246b6cd30125035420, type: 3}
+  - {fileID: 21300000, guid: c93a3ee58bacc8943976ed853cbc8c79, type: 3}
+  - {fileID: 21300000, guid: 98afbf5655cfa4e4dbf2dfc81c34102e, type: 3}
+  - {fileID: 21300000, guid: 3ad71617d14da7f46b8108695e51e568, type: 3}
+  - {fileID: 21300000, guid: 36908f7771e8b0342a3ba60875fb77fb, type: 3}
+  - {fileID: 21300000, guid: 6fe947384abd77041b6c8aedcde574eb, type: 3}
+  - {fileID: 21300000, guid: de0b879ba4c2a7247987262a6fd13b3f, type: 3}
+  - {fileID: 21300000, guid: be27734e902544f42915ad48790c7d3e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Grandpa
+  - MashHoldShirt
+  - GrandpaRun
+  - PoliceCorrupt
+  - CurruptSee
+  - GrandpaLeg1
+  - Shirtless
+  - PoliceScared
+  - Frontground
+  - barrel
+  - TwoPolices
+  - GrandpaLeg2
+  - GrandpaUp
+  - GrandpaBye
+  - MashEating
+  - Merged
+  m_RenderDataMap: {}
+  m_Tag: 1.3
+  m_IsVariant: 0

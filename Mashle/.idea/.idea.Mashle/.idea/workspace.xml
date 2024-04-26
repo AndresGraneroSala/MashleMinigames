@@ -6,8 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="656b8e1f-6062-4af9-9c15-c5b2ddb7e72d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Mashle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Mashle/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Jump.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Jump.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cap1/3/gradpa.xcf" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Cap1/3/gradpa.xcf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/1.1-1Prev.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/1.1-1Prev.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cap1/1/Prev/SignCap1ProfiterolesTest.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Cap1/1/Prev/SignCap1ProfiterolesTest.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cap1/1/Prev/mashHood.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Cap1/1/Prev/mashHood.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Cap1/1/Prev/mashProfiteroleCoin.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Cap1/1/Prev/mashProfiteroleCoin.png.meta" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +124,8 @@
       <workItem from="1711641884339" duration="156000" />
       <workItem from="1711642414025" duration="15317000" />
       <workItem from="1711731361252" duration="6398000" />
-      <workItem from="1711882936280" duration="1231000" />
+      <workItem from="1711882936280" duration="2424000" />
+      <workItem from="1712778543679" duration="44000" />
     </task>
     <servers />
   </component>
