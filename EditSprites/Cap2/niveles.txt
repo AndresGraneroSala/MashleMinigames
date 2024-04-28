@@ -1,0 +1,7 @@
+-escondite
+-ordenar letras (ritmo)
+-laberinto proteger lemon
+-laberinto muros
+
+
+
