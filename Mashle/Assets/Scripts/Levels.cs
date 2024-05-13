@@ -59,6 +59,8 @@ public class Levels : MonoBehaviour
     {
         print(SceneManager.GetActiveScene().name);
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        Time.timeScale = 1;
+
     }
 
     private void SetMenu()
