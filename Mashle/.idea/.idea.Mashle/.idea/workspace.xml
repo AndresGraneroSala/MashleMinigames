@@ -5,96 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="656b8e1f-6062-4af9-9c15-c5b2ddb7e72d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../EditSprites/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EditSprites/10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EditSprites/11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EditSprites/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EditSprites/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EditSprites/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EditSprites/5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EditSprites/Ball.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EditSprites/BallEffect.xcf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EditSprites/Cap2/3/Proyecto sin título.osp" beforeDir="false" afterPath="$PROJECT_DIR$/../EditSprites/Cap2/3/Proyecto sin título.osp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EditSprites/CoinCap1.xcf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EditSprites/Frontground.xcf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EditSprites/GranpaCarringMash.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EditSprites/GranpaCarringMashTest.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EditSprites/Icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EditSprites/Icon.xcf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EditSprites/MashArm2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EditSprites/MashUp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EditSprites/MashUp.xcf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EditSprites/Merged.xcf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EditSprites/Police.xcf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EditSprites/PoliceFace.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EditSprites/PoliceMagicWand.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EditSprites/PoliceUp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EditSprites/PossibleBackground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EditSprites/Profiterole.xcf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EditSprites/Result.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EditSprites/Result.xcf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EditSprites/SEO.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EditSprites/Sliver.xcf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EditSprites/barrel.xcf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EditSprites/circlePoliceDrunk.xcf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EditSprites/dedo.xcf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EditSprites/gradpa.xcf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EditSprites/hairForTest.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EditSprites/rocks.xcf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EditSprites/woodTexture.xcf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EditSprites/woodTextureDark.xcf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EditSprites/ç.xcf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Mashle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Mashle/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/1.1-1.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/1.1-1.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/1.1-1Prev.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/1.1-1Prev.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/1.1-2.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/1.1-2.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/1.1-2Prev.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/1.1-2Prev.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/1.1-3.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/1.1-3.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/1.1-3Prev.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/1.1-3Prev.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/1.1-4.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/1.1-4.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/1.1-4Prev.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/1.1-4Prev.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Menu.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AntiTheft.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AntiTheft.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ChefCap1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ChefCap1.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CoinCap1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CoinCap1.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DestroyOnShiled.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DestroyOnShiled.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Jump.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Jump.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/LevelRhythm.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/LevelRhythm.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Levels.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Levels.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/LooseTouch.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/LooseTouch.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MagicBall.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MagicBall.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MashArmRotationController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MashArmRotationController.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MoveSimple.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MoveSimple.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ResetLevel.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ResetLevel.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/RhythmClick.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/RhythmClick.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SadCap1P1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SadCap1P1.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SimpleNextScene.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SimpleNextScene.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Spawner.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Spawner.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Build/Build/Web-Build.data" beforeDir="false" afterPath="$PROJECT_DIR$/../Web-Build/Build/Web-Build.data" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,7 +120,7 @@
       <workItem from="1715625843824" duration="28000" />
       <workItem from="1715625897670" duration="906000" />
       <workItem from="1715884831370" duration="3708000" />
-      <workItem from="1716372029721" duration="58000" />
+      <workItem from="1716372029721" duration="698000" />
     </task>
     <servers />
   </component>
